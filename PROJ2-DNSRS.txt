@@ -1,0 +1,5 @@
+facebook.com 96.93.166.232 A
+rutgers.edu 86.95.3.172 A
+nsf.gov 158.246.218.105 A
+happy.com 109.78.231.33 A
+www.test.org 104.209.216.174 A

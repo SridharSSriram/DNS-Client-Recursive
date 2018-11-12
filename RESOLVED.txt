@@ -1,0 +1,8 @@
+place.net - Error:HOST NOT FOUND
+place.com - Error:HOST NOT FOUND
+flat.edu - Error:HOST NOT FOUND
+rutgers.edu 86.95.3.172 A
+www.princeton.edu 159.112.40.146 A
+google.com 19.45.31.54 A
+www.test.org 104.209.216.174 A
+happy.com 109.78.231.33 A

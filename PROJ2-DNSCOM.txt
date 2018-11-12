@@ -1,0 +1,4 @@
+google.com 19.45.31.54 A
+www.amazon.com 36.166.252.207 A
+browserling.com 224.229.150.118 A
+facebook.com 206.20.176.129 A
